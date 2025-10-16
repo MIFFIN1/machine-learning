@@ -87,7 +87,7 @@ pip install transformers datasets tqdm
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 1. Clone the repository:
 
