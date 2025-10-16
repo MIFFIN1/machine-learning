@@ -1,11 +1,11 @@
-# 🤖 Machine Learning Progress Repository
+# Machine Learning Progress Repository
 
 This repository documents my journey of learning and experimenting with **Machine Learning (ML)** concepts, models, and techniques.  
 It includes implementations, Jupyter notebooks, and experiments ranging from foundational linear models to deep learning architectures and natural language processing with BERT. More to come!!
 
 ---
 
-## 🧩 Overview
+## Overview
 
 This project is a **personal learning collection**, organized into thematic folders.  
 Each subfolder contains experiments, notes, and models focused on specific ML topics.
@@ -21,7 +21,7 @@ This folder includes notebooks inspired by the _Dive into Deep Learning_ textboo
 - Visualization and performance metrics  
 - Experiment tracking and saved tensors
 
-#### 🧠 Personal/BERT
+#### Personal/BERT
 Contains experiments in **Natural Language Processing (NLP)**, focusing on:
 
 - Fine-tuning **BERT** on custom text data  
